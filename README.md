@@ -10,7 +10,7 @@ e-mail: workingnewjeong@gmail.com
 
 ## 기술 이력
 
-![](C:\Users\전현빈\Desktop\resume\images\dev_time_line.png)
+![DevTimeline](./images/dev_time_line.png)
 
 ## 경력
 
