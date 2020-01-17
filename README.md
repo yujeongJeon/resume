@@ -14,7 +14,7 @@ e-mail: workingnewjeong@gmail.com
 
 ## 소개
 
-
+현업에서 근무한지 2년차가 되는 프론트엔드 개발자입니다. 롯데정보통신 정보기술연구소에서 React.js 기반의 챗봇 빌더 프론트엔드를 담당하여 1년 반 동안 연구개발하였습니다. javascript를 가장 좋아하며 코어 자바스크립트 및 외부 교육을 다니며 기본 개념을 꾸준히 학습하고 있습니다. 최근 신뢰를 주는 프론트 엔드 테스트 전략에 관심이 많습니다.
 
 
 
@@ -44,9 +44,9 @@ e-mail: workingnewjeong@gmail.com
 
 
 
-## 기술 스택
+## 보유 기술
 
-
+![Ability01](./images/technical_ability_1.jpg)
 
 
 
@@ -84,8 +84,11 @@ e-mail: workingnewjeong@gmail.com
 
 
 - 2018.10. ~ 2018.12. PoC
+
 - 2019.02 ~ 2019.06.  Product 착수, 1차 고도화
+
 - 2019.07 ~ 2019.11. 2차 고도화
+
 - 2019.12.~ 2020.02. 3차 고도화, 2월 중 v1.0 전사 오픈 예정
 
 - 설명: 자연어 처리, 개체명 인식, 사전 등의 다양한 기능을 탑재한 챗봇의 API를 웹을 통해 만들고 관리할 수 있는 서비스입니다.
@@ -103,16 +106,6 @@ e-mail: workingnewjeong@gmail.com
 ![BotBuilder02](./images/leaflo_bot_builder_2.jpg)
 
 
-
-#### (3) 연구소 과제관리 시스템 PoC
-
-- 설명:
-
-#### (4) 면접관 추첨 시스템
-
-- 설명:
-
-#### 
 
 ## 대학
 
