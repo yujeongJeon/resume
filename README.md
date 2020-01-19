@@ -148,7 +148,7 @@ e-mail: workingnewjeong@gmail.com
 ![ttokttok01](./images/ttokttok_1.png)
 
 - 2017.09. ~ 2017.12.
-- 설명: 챗봇 빌더에서 생성한 챗봇을 웹챗으로 배포하기 위한 SDK입니다.
+- 설명: 병원 주이용층인 중장년층의 대학 병원 접수 과정의 문제점을 파악하여 비콘을 활용한 실내위치인식 기반 스마트 병원 접수 시스템입니다.
 - 사용 기술: Node.js, JQuery, Apache cordova, Beacon
 - 역할
   - Rest Api 구현
