@@ -83,6 +83,12 @@ e-mail: workingnewjeong@gmail.com
 
 
 
+![BotBuilder01](./images/leaflo_bot_builder_1.jpg)
+
+
+
+![BotBuilder02](./images/leaflo_bot_builder_2.jpg)
+
 - 2018.10. ~ 2018.12. PoC
 
 - 2019.02 ~ 2019.06.  Product 착수, 1차 고도화
@@ -93,17 +99,39 @@ e-mail: workingnewjeong@gmail.com
 
 - 설명: 자연어 처리, 개체명 인식, 사전 등의 다양한 기능을 탑재한 챗봇의 API를 웹을 통해 만들고 관리할 수 있는 서비스입니다.
 
-- 사용기술 및 역할
+- 프로젝트 추친 과정
 
   ![BotBuilder00](./images/leaflo_bot_builder_3.jpg)
 
+- 역할
 
+#### 기술적 관점
 
-![BotBuilder01](./images/leaflo_bot_builder_1.jpg)
+- React.js 기반 사용자 웹 프론트엔드 개발 [90%]
+- Elastic Search 검색 알고리즘을 이용한 유사도 기반 사용자 의도 분석 [35%]
+- 사용자 의도 분석 설계, 화행 구조 설계 [30%]
+- 문맥 구조 설계, 외부 레거시 API 연동 로직 설계 [100%]
+- 문맥 기반 의도 분석 정확도 개선, 되묻기 로직 개선 [100%]
+- 웹챗 SDK 제공 [100%]
+- Docker compose 기반 무중단 배포 환경 구축 및 일관화 [30%]
+- 유연한 스키마 정의를 위해 mariaDB 에서 mongoDB로 migration [50%]
+- MongoDB, ElasticSearch, Redis 간의 Data 동기화를 위한 API 작성 [50%]
+- mocha 기반 인터페이스 테스트 코드 작성 [60%]
 
+#### 프로젝트 관리
 
+- 화면 설계서 작성 및 관리
+- 인터페이스 정의서 및 설계안 작성
+- 사용자 웹 및 인터페이스 코드 컨벤션 준수
+- eslint, prettier로 코드 포맷 점검 및 스타일 준수
 
-![BotBuilder02](./images/leaflo_bot_builder_2.jpg)
+#### 소통 · 계발
+
+- Javascript 외부 교육 참여
+- ElasticSearch 사내 교육 기초·심화 과정 수료
+- 2차 고도화: 팀원 모두가 전반적으로 일관된 이해를 위해 웹과 I/F 역할을 바꾸어 담당
+- 담당한 서비스 코드를 서로 코드 리뷰 진행
+- 신규 투입된 인원의 역량 강화를 위한 워밍업 과제 정의 및 React.js 코드리뷰 진행
 
 
 
@@ -117,3 +145,11 @@ e-mail: workingnewjeong@gmail.com
 
 #### (2) 실내위치인식 기반 병원 웹앱
 
+![ttokttok01](./images/ttokttok_1.png)
+
+- 2017.09. ~ 2017.12.
+- 설명: 챗봇 빌더에서 생성한 챗봇을 웹챗으로 배포하기 위한 SDK입니다.
+- 사용 기술: Node.js, JQuery, Apache cordova, Beacon
+- 역할
+  - Rest Api 구현
+  - JQuery 사용자 화면 구현 참여
