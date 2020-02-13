@@ -14,7 +14,7 @@ e-mail: workingnewjeong@gmail.com
 
 ## 소개
 
-현업에서 근무한지 2년차가 되는 프론트엔드 개발자입니다. 롯데정보통신 정보기술연구소에서 React.js 기반의 챗봇 빌더 프론트엔드를 담당하여 1년 반 동안 연구개발하였습니다. javascript를 가장 좋아하며 코어 자바스크립트 및 외부 교육을 다니며 기본 개념을 꾸준히 학습하고 있습니다. 최근 신뢰를 주는 프론트 엔드 테스트 전략에 관심이 많습니다.
+현업에서 근무한지 1년이 되는 프론트엔드 개발자입니다. 롯데정보통신 정보기술연구소에서 React.js 기반의 챗봇 빌더 프론트엔드를 담당하여 1년 동안 연구개발하였습니다. javascript를 가장 좋아하며 코어 자바스크립트 및 외부 교육을 다니며 기본 개념을 꾸준히 학습하고 있습니다. 최근에는 신뢰를 주고 확장 가능한 프론트 엔드 테스트 전략에 관심이 많습니다.
 
 
 
@@ -46,7 +46,27 @@ e-mail: workingnewjeong@gmail.com
 
 ## 보유 기술
 
-![Ability01](./images/technical_ability_1.jpg)
+#### 언어
+
+- javascript
+
+#### 프레임워크
+
+- React.js, Vue.js
+- Node.js
+- JQuery
+
+#### 데이터베이스
+
+- MongoDB
+- MariaDB
+- ElasticSearch
+- Redis
+
+#### Tools & Env.
+
+- Docker
+- Linux, Windows, AWS EC2
 
 
 
@@ -54,9 +74,11 @@ e-mail: workingnewjeong@gmail.com
 
 #### (1) 웹챗 SDK
 
+https://leaflo.ldcc.co.kr:4001/
+
 - 2019.12. ~ 2020.01.
 
-- 설명: 챗봇 빌더에서 생성한 챗봇을 웹챗으로 배포하기 위한 SDK입니다.
+- 설명: import 스크립트를 통해 챗봇 빌더에서 생성한 챗봇을 웹챗으로 배포하기 위한 SDK입니다.
 
 - 사용 기술: Next.js, Storybook, docker
 
@@ -107,12 +129,12 @@ e-mail: workingnewjeong@gmail.com
 
 #### 기술적 관점
 
-- React.js 기반 사용자 웹 프론트엔드 개발 [90%]
+- React.js 기반 사용자 웹 프론트엔드 개발 [65%]
 - Elastic Search 검색 알고리즘을 이용한 유사도 기반 사용자 의도 분석 [35%]
 - 사용자 의도 분석 설계, 화행 구조 설계 [30%]
 - 문맥 구조 설계, 외부 레거시 API 연동 로직 설계 [100%]
 - 문맥 기반 의도 분석 정확도 개선, 되묻기 로직 개선 [100%]
-- 웹챗 SDK 제공 [100%]
+- 웹챗 SDK 제공 및 배포관리 기능 구현 [100%]
 - Docker compose 기반 무중단 배포 환경 구축 및 일관화 [30%]
 - 유연한 스키마 정의를 위해 mariaDB 에서 mongoDB로 migration [50%]
 - MongoDB, ElasticSearch, Redis 간의 Data 동기화를 위한 API 작성 [50%]
@@ -127,7 +149,7 @@ e-mail: workingnewjeong@gmail.com
 
 #### 소통 · 계발
 
-- Javascript 외부 교육 참여
+- NHN Javascript 오픈 교육 참여
 - ElasticSearch 사내 교육 기초·심화 과정 수료
 - 2차 고도화: 팀원 모두가 전반적으로 일관된 이해를 위해 웹과 I/F 역할을 바꾸어 담당
 - 담당한 서비스 코드를 서로 코드 리뷰 진행
