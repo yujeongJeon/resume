@@ -91,7 +91,7 @@ https://leaflo.ldcc.co.kr:4001/
 
   
 
-![WebChat01](./images/leaflo_webchat_1.jpg)
+![webchat01](C:\Users\전현빈\Desktop\resume\images\webchat_1.png)
 
 
 
