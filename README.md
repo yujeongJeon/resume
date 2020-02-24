@@ -99,27 +99,23 @@ https://leaflo.ldcc.co.kr:4001/
 
 <https://leaflo.ldcc.co.kr/>
 
+[서비스소개서]: https://drive.google.com/file/d/1Cw8wPYxKmC8JjmjgnW1XTMfAsAOS5Scs/view?usp=sharing
 
-
-![BotBuilder05](./images/leaflo_front_end_5.jpg)
-
-
-
-![BotBuilder01](./images/leaflo_bot_builder_1.jpg)
+![intro](./images/leaflo_intro.png)
 
 
 
-![BotBuilder02](./images/leaflo_bot_builder_2.jpg)
+![BotBuilder05](./images/leaflo_intro_2.png)
 
-- 2018.10. ~ 2018.12. PoC
 
-- 2019.02 ~ 2019.06.  Product 착수, 1차 고도화
 
-- 2019.07 ~ 2019.11. 2차 고도화
+![BotBuilder01](./images/leaflo_intro_3.png)
 
-- 2019.12.~ 2020.02. 3차 고도화, 2월 중 v1.0 전사 오픈 예정
 
-- 설명: 자연어 처리, 개체명 인식, 사전 등의 다양한 기능을 탑재한 챗봇의 API를 웹을 통해 만들고 관리할 수 있는 서비스입니다.
+
+![BotBuilder02](./images/leaflo_intro_4.png)
+
+
 
 - 프로젝트 추친 과정
 
