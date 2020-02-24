@@ -99,7 +99,7 @@ https://leaflo.ldcc.co.kr:4001/
 
 <https://leaflo.ldcc.co.kr/>
 
-[서비스소개서]: https://drive.google.com/file/d/1Cw8wPYxKmC8JjmjgnW1XTMfAsAOS5Scs/view?usp=sharing	"서비스 소개서"
+[서비스 소개서 바로가기](https://drive.google.com/file/d/1Cw8wPYxKmC8JjmjgnW1XTMfAsAOS5Scs/view?usp=sharing)
 
 ![intro](./images/leaflo_intro.png)
 
