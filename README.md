@@ -1,5 +1,7 @@
 # RESUME
 
+![profile_img](./images/전유정_증명사진.jpg)
+
 ### 전유정, Zoey
 
 github: <https://github.com/yujeongJeon>
@@ -10,17 +12,21 @@ e-mail: workingnewjeong@gmail.com
 
 
 
-------
-
 ## 소개
 
-현업에서 근무한지 1년이 되는 프론트엔드 개발자입니다. 롯데정보통신 정보기술연구소에서 React.js 기반의 챗봇 빌더 프론트엔드를 담당하여 1년 동안 연구개발하였습니다. javascript를 가장 좋아하며 코어 자바스크립트 및 외부 교육을 다니며 기본 개념을 꾸준히 학습하고 있습니다. 최근에는 신뢰를 주고 확장 가능한 프론트 엔드 테스트 전략에 관심이 많습니다.
+현업에서 근무한지 1년이 되는 프론트엔드 개발자입니다. 롯데정보통신 정보기술연구소에서 React.js 기반의 챗봇 빌더 프론트엔드를 담당하여 1년 동안 연구개발하였습니다. 자바스크립트를 가장 좋아하며  데이터 타입, 실행 컨텍스트, 클로저 등 자바스크립트의 핵심 개념을 익히고 실무에서 어떻게 활용되는지를 꾸준히 학습, 적용하고 있습니다.
+
+------
 
 
 
 ## 기술 이력
 
 ![DevTimeline](./images/dev_time_line.png)
+
+------
+
+
 
 ## 경력
 
@@ -41,6 +47,8 @@ e-mail: workingnewjeong@gmail.com
   - 연구소 과제관리 시스템 PoC
   - 권한관리 시스템 PoC
   - 챗봇 빌더 PoC
+
+------
 
 
 
@@ -66,15 +74,22 @@ e-mail: workingnewjeong@gmail.com
 #### Tools & Env.
 
 - Docker
+
 - Linux, Windows, AWS EC2
 
+  ------
 
+  
 
 ## 프로젝트
 
 #### (1) 웹챗 SDK
 
-https://leaflo.ldcc.co.kr:4001/
+
+
+[데모 URL 바로가기](<https://leaflo.ldcc.co.kr:4001/?apiKey=b91baa8b-6522-41d7-98bc-92c8a1a70ee1&userId=%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%95%84%EC%9D%B4%EB%94%94&accessKey=ac7c44e1-0202-4e51-8f7f-c71161a8236a&accessSecret=0f5126cb-d7fc-46ef-ad06-687349fce522>)
+
+
 
 - 2019.12. ~ 2020.01.
 
@@ -85,21 +100,28 @@ https://leaflo.ldcc.co.kr:4001/
 - 역할
 
   - 웹챗 UI 구성 및 인터페이스 서버 API 라우팅 100%
+  - storybook을 통한 컴포넌트 관리 및 가이드 작성
   - 웹챗 배포 스크립트 작성 100%
 
-- <https://github.com/yujeongJeon/react-with-next>
-
-  
+- 소스 코드: <https://github.com/yujeongJeon/react-with-next>
 
 ![webchat01](./images/webchat_1.png)
+
+------
 
 
 
 #### (2) Leaflo 챗봇 빌더
 
-<https://leaflo.ldcc.co.kr/>
+
+
+URL  <https://leaflo.ldcc.co.kr/>
+
+
 
 [서비스 소개서 바로가기](https://drive.google.com/file/d/1Cw8wPYxKmC8JjmjgnW1XTMfAsAOS5Scs/view?usp=sharing)
+
+
 
 ![intro](./images/leaflo_intro.png)
 
@@ -115,11 +137,15 @@ https://leaflo.ldcc.co.kr:4001/
 
 ![BotBuilder02](./images/leaflo_intro_4.png)
 
+------
+
 
 
 - 프로젝트 추친 과정
 
   ![BotBuilder00](./images/leaflo_bot_builder_3.jpg)
+
+  
 
 - 역할
 
@@ -141,17 +167,26 @@ https://leaflo.ldcc.co.kr:4001/
 - 화면 설계서 작성 및 관리
 - 인터페이스 정의서 및 설계안 작성
 - 사용자 웹 및 인터페이스 코드 컨벤션 준수
-- eslint, prettier로 코드 포맷 점검 및 스타일 준수
+- prettier로 코드 포맷 점검 및 스타일 준수
+- 통합 테스트용 기능 정의서 작성 및 관리
 
 #### 소통 · 계발
 
-- NHN Javascript 오픈 교육 참여
+- 2019 LINE WORKS 챗봇 컨퍼런스 참여 
+
+- NHN 자바스크립트 OOP 오픈 교육 참여
+
 - ElasticSearch 사내 교육 기초·심화 과정 수료
+
 - 2차 고도화: 팀원 모두가 전반적으로 일관된 이해를 위해 웹과 I/F 역할을 바꾸어 담당
+
 - 담당한 서비스 코드를 서로 코드 리뷰 진행
+
 - 신규 투입된 인원의 역량 강화를 위한 워밍업 과제 정의 및 React.js 코드리뷰 진행
 
+  ------
 
+  
 
 ## 대학
 
