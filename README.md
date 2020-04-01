@@ -10,6 +10,8 @@ blog: <https://coffeeandcakeandnewjeong.tistory.com/>
 
 e-mail: workingnewjeong@gmail.com
 
+LinkedIn: 
+
 
 
 ## 소개
@@ -18,7 +20,7 @@ e-mail: workingnewjeong@gmail.com
 
 롯데정보통신에서 인턴기간포함 1년 6개월간 React.js와 Node.js 기반의 챗봇빌더 프로젝트의 웹 FE 개발을 담당하였습니다.
 
-4명의 소규모로 진행했기 때문에 함수형 프로그래밍과 Node.js 기반 웹 백엔드와 챗봇의 비즈니스 로직 개발 또한 일부 담당하였습니다.
+4명의 소규모로 진행하여 함수형 프로그래밍과 Node.js 기반 웹 백엔드와 챗봇의 비즈니스 로직 개발 또한 일부 담당하였습니다.
 
 프론트엔드와 함께 UX에 관심이 많아 UX/UI 디자이너인 친동생에게 배우면서 Sketch와 Zeplin UI 설계,협업 툴을 사용하여 빌더 웹 화면 디자인또한 참여하였습니다.
 
@@ -26,9 +28,11 @@ e-mail: workingnewjeong@gmail.com
 
 그런 개발자가 되기 위해 자바스크립트의 데이터 타입, 실행 컨텍스트, 클로저 등 핵심 개념을 익히고 실무에서 어떻게 활용되는지를 꾸준히 학습, 적용하고 있습니다.
 
-함께 일하게 될 개발자님들께 배우고 소통하는 코드리뷰 시간을 아주 좋아합니다!
+함께 일하게 될 개발자님들께 배우고 소통하는 코드리뷰 시간을 좋아합니다.
 
-리뷰시간 외적으로도 개발 대화를 나눌 수 있는 좋은 동료분들이 많으면 좋겠습니다!
+활발한 소통을 통해 개발 지식을 공유할 수 있는 장에 참여하는 것 또한 좋아합니다.
+
+개인 블로그에서 실무에서 겪은 트러블 슈팅, 유익한 개발 글을 번역 및 공유하고 있습니다.
 
 
 
@@ -83,11 +87,13 @@ e-mail: workingnewjeong@gmail.com
 #### 언어
 
 - javascript
+  - [코어 자바스크립트 목차별 개념 정리 포스팅](https://coffeeandcakeandnewjeong.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 
 #### 프레임워크
 
-- React.js, Vue.js
+- React.js
 - Node.js
+- Vue.js
 - JQuery
 
 #### 데이터베이스
@@ -100,6 +106,10 @@ e-mail: workingnewjeong@gmail.com
 #### Tools & Env.
 
 - Docker
+
+- Git
+
+  - Git flow
 
 - Linux, Windows, AWS EC2
 
@@ -135,7 +145,15 @@ e-mail: workingnewjeong@gmail.com
 
 ------
 
+- Trouble Shooting 관련 포스팅
 
+  - [nginx로 Next.js 앱 배포하기](https://coffeeandcakeandnewjeong.tistory.com/7)
+
+  - [모바일 웹 브라우저에서 가상 키보드 오픈 시 스크롤 내리기](https://coffeeandcakeandnewjeong.tistory.com/8?category=906460)
+
+    ------
+
+    
 
 #### (2) Leaflo 챗봇 빌더
 
@@ -200,20 +218,19 @@ URL  <https://leaflo.ldcc.co.kr/>
 #### 소통 · 계발
 
 - 2019 LINE WORKS 챗봇 컨퍼런스 참여 
-
 - NHN 자바스크립트 OOP 오픈 교육 참여
-
 - ElasticSearch 사내 교육 기초·심화 과정 수료
-
 - 2차 고도화: 팀원 모두가 전반적으로 일관된 이해를 위해 웹과 I/F 역할을 바꾸어 담당
-
 - 담당한 서비스 코드를 서로 코드 리뷰 진행
-
 - 신규 투입된 인원의 역량 강화를 위한 워밍업 과제 정의 및 React.js 코드리뷰 진행
 
-  ------
+#### Trouble Shooting 관련 포스팅
 
-  
+- [[리액트] Hooks 기반 프로그래밍할 때 주의할 점](https://coffeeandcakeandnewjeong.tistory.com/13?category=906460)
+- [[리액트] Toast 알람 구현 (1)](https://coffeeandcakeandnewjeong.tistory.com/21?category=906460)
+- IE10, 11브라우저 호환성 이슈 정리
+
+
 
 ## 대학
 
