@@ -10,13 +10,13 @@ blog: <https://coffeeandcakeandnewjeong.tistory.com/>
 
 e-mail: workingnewjeong@gmail.com
 
-LinkedIn: 
+LinkedIn: <https://www.linkedin.com/in/js-newjeong/>
 
 
 
 ## 소개
 
-안녕하세요. 1년차 프론트엔드 개발자 전유정입니다.
+안녕하세요. 2년차 프론트엔드 개발자 전유정입니다.
 
 롯데정보통신에서 인턴기간포함 1년 6개월간 React.js와 Node.js 기반의 챗봇빌더 프로젝트의 웹 FE 개발을 담당하였습니다.
 
@@ -24,13 +24,13 @@ LinkedIn:
 
 프론트엔드와 함께 UX에 관심이 많아 UX/UI 디자이너인 친동생에게 배우면서 Sketch와 Zeplin UI 설계,협업 툴을 사용하여 빌더 웹 화면 디자인또한 참여하였습니다.
 
-사용자들에게 일상의 즐거움, 삶의 변화를 줄 수 있는 서비스를 만드는 개발자가 되고 싶습니다.
+이러한 소중한 개발 경험들을 하나하나 쌓아가면서 사용자들에게 일상의 즐거움, 삶의 변화를 줄 수 있는 서비스를 만드는 개발자가 되고 싶습니다.
 
 그런 개발자가 되기 위해 자바스크립트의 데이터 타입, 실행 컨텍스트, 클로저 등 핵심 개념을 익히고 실무에서 어떻게 활용되는지를 꾸준히 학습, 적용하고 있습니다.
 
 함께 일하게 될 개발자님들께 배우고 소통하는 코드리뷰 시간을 좋아합니다.
 
-활발한 소통을 통해 개발 지식을 공유할 수 있는 장에 참여하는 것 또한 좋아합니다.
+활발한 소통을 통해 개발 지식을 공유할 수 있는 장에 참여하는 것 또한 좋아하여 외부 교육과 컨퍼런스가 열릴 때마다 신청하고 참여하였습니다.
 
 개인 블로그에서 실무에서 겪은 트러블 슈팅, 유익한 개발 글을 번역 및 공유하고 있습니다.
 
@@ -143,17 +143,12 @@ LinkedIn:
 
 ![webchat01](./images/webchat_1.png)
 
-------
-
 - Trouble Shooting 관련 포스팅
-
   - [nginx로 Next.js 앱 배포하기](https://coffeeandcakeandnewjeong.tistory.com/7)
 
   - [모바일 웹 브라우저에서 가상 키보드 오픈 시 스크롤 내리기](https://coffeeandcakeandnewjeong.tistory.com/8?category=906460)
 
-    ------
-
-    
+------
 
 #### (2) Leaflo 챗봇 빌더
 
@@ -220,6 +215,7 @@ URL  <https://leaflo.ldcc.co.kr/>
 - 2019 LINE WORKS 챗봇 컨퍼런스 참여 
 - NHN 자바스크립트 OOP 오픈 교육 참여
 - ElasticSearch 사내 교육 기초·심화 과정 수료
+- 2019.11. FE 컨퍼런스, GDG 서울 컨퍼런스 참석
 - 2차 고도화: 팀원 모두가 전반적으로 일관된 이해를 위해 웹과 I/F 역할을 바꾸어 담당
 - 담당한 서비스 코드를 서로 코드 리뷰 진행
 - 신규 투입된 인원의 역량 강화를 위한 워밍업 과제 정의 및 React.js 코드리뷰 진행
@@ -228,7 +224,7 @@ URL  <https://leaflo.ldcc.co.kr/>
 
 - [[리액트] Hooks 기반 프로그래밍할 때 주의할 점](https://coffeeandcakeandnewjeong.tistory.com/13?category=906460)
 - [[리액트] Toast 알람 구현 (1)](https://coffeeandcakeandnewjeong.tistory.com/21?category=906460)
-- IE10, 11브라우저 호환성 이슈 정리
+- [크로스 브라우징 이슈 해결 경험기](https://coffeeandcakeandnewjeong.tistory.com/22)
 
 
 
