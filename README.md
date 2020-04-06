@@ -205,10 +205,18 @@ URL  <https://leaflo.ldcc.co.kr/>
 #### 프로젝트 관리
 
 - 화면 설계서 작성 및 관리
+
 - 인터페이스 정의서 및 설계안 작성
+
 - 사용자 웹 및 인터페이스 코드 컨벤션 준수
+
 - prettier로 코드 포맷 점검 및 스타일 준수
+
 - 통합 테스트용 기능 정의서 작성 및 관리
+
+  ------
+
+  
 
 #### 소통 · 계발
 
@@ -223,10 +231,14 @@ URL  <https://leaflo.ldcc.co.kr/>
 #### Trouble Shooting 관련 포스팅
 
 - [[리액트] Hooks 기반 프로그래밍할 때 주의할 점](https://coffeeandcakeandnewjeong.tistory.com/13?category=906460)
+
 - [[리액트] Toast 알람 구현 (1)](https://coffeeandcakeandnewjeong.tistory.com/21?category=906460)
+
 - [크로스 브라우징 이슈 해결 경험기](https://coffeeandcakeandnewjeong.tistory.com/22)
 
+  ------
 
+  
 
 ## 대학
 
